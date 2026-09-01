@@ -1,6 +1,3 @@
-kar man tamam
+from . import masoud
 
 
-
-123 123
-123 123
