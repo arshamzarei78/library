@@ -1,1 +1,1 @@
-import . from Amir.py
+from . import Amir.py
