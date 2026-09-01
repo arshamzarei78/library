@@ -1,0 +1,1 @@
+kar man tamam
